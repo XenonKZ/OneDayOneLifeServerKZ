@@ -1,0 +1,2 @@
+# OneDayOneLifeServerKZ
+Private ODOL server
